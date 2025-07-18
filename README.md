@@ -1,6 +1,6 @@
 # lst2nasm
 
-Tool for generating nasm #define directives from nasm lst files (generated with nasm's -l option)
+Tool for generating nasm %define directives from nasm lst files (generated with nasm's -l option)
 
 ## Usage
 
